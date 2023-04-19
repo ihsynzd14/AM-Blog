@@ -2,12 +2,13 @@
 
 A Blog that help people to create their blogs and posts
 
-## Presentation
+
+### Presentation
 
 You can find my presentation about Blog in the file "presentazione".
 
 
-## MySQL
+### MySQL
 
 SQL file contains in the file "presentazione" with name "blog_am.sql". You can impoort it to MySQL.
 
